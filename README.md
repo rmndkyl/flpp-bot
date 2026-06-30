@@ -35,9 +35,9 @@ Automated swap volume farming bot for **FLPP.io** (Flipper DEX) — AI-powered S
 Contact [@rmndkyl](https://t.me/rmndkyl) on Telegram.
 
 **Payment Methods:**
-- DANA/GoPay/Shopeepay: 089637622655
-- BCA: 8415639160
-- Seabank: 901859344390
+- **E-Wallet (ID):** DANA / GoPay / ShopeePay
+- **Bank Transfer (ID):** BCA / Seabank
+- **Crypto (USDT/SOL):** Contact for wallet address
 - EVM + Solana wallets (ask for address)
 
 ## Other Scripts
